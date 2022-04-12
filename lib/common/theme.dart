@@ -6,7 +6,7 @@ final appTheme = ThemeData(
     headline1: TextStyle(
       fontFamily: 'Corben',
       fontWeight: FontWeight.w700,
-      fontSize: 2,
+      fontSize: 24,
       color: Colors.black,
     ),
   ),
